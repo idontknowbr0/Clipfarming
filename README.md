@@ -11,14 +11,14 @@ Usage:
 ./clip4k.sh
 ```
 
-### `clipstream.sh`
+### `clipstreamyt.sh`
 Downloads a 1080p60 YouTube **livestream** clip between two timestamps and re-encodes it to a Premiere-safe `.mp4`.
 Usage:
 ```bash
 ./clipstream.sh
 ```
 
-### `clipstreamt.sh`
+### `clipstreamtwitch.sh`
 Same as `clipstream.sh`, but for **Twitch VODs**. Downloads at 1080p60 if available, falls back gracefully.
 Usage:
 ```bash
